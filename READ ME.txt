@@ -1,3 +1,6 @@
+GOOGLE DRIVE LINK: https://colab.research.google.com/drive/1BIgTWk_B93U5Rwu2e5lKeYhNCIuIcaQp?usp=sharing
+
+
 OVERALL APPROACH
 
 The training data comprises of 20800 rows with 5 columns namely id, title, author, text and labels. The test data consists of 5200 rows and 4 columns. labels.csv consists of labels for the test data.
